@@ -6,7 +6,7 @@ This module is currently in an early phase of its development and thus does
 
 ## Installing Ciel
 
-[![(npm package version)](https://nodei.co/npm/ciel.png?downloads=true)](https://npmjs.org/package/ciel) [![(a histogram of downloads)](https://nodei.co/npm-dl/ciel.png?months=3)](https://npmjs.org/package/ciel)
+[![(npm package version)](https://nodei.co/npm/ciel.png?downloads=true)](https://npmjs.org/package/ciel) [![(a histogram of downloads)](https://nodei.co/npm-dl/ciel.png?months=3&height=2)](https://npmjs.org/package/ciel)
 
 * Latest packaged version: `npm install ciel`
 
