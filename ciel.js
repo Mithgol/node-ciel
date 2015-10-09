@@ -1,3 +1,5 @@
+var ansi = require('ansi');
+
 module.exports = {
    ok: function(logElement){
       ansi.black().bg.green().write('  OK  ').reset().write(' ');
