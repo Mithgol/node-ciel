@@ -16,6 +16,8 @@ You may visit https://github.com/Mithgol/node-ciel#readme occasionally to read 
 
 ## Testing Ciel
 
+[![(build testing status)](https://img.shields.io/travis/Mithgol/node-ciel/master.svg?style=plastic)](https://travis-ci.org/Mithgol/node-ciel)
+
 It is necessary to install [JSHint](http://jshint.com/) for testing.
 
 * You may install JSHint globally (`npm install jshint -g`) or locally (`npm install jshint` in the directory of Ciel).
