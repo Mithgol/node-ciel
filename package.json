@@ -1,0 +1,13 @@
+{
+"name": "ciel",
+"main": "ciel.js",
+"version": "0.0.1",
+"description": "Coloured logs in console window.",
+"keywords": ["log", "logs", "coloured", "colored", "colour", "color"],
+"author": { "name": "Mithgol the Webmaster" },
+"license": "MIT",
+"repository": {
+   "type": "git",
+   "url": "https://github.com/Mithgol/node-ciel.git"
+}
+}
