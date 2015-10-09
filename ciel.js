@@ -1,4 +1,4 @@
-var ansi = require('ansi');
+var ansi = require('ansi')(process.stdout);
 
 module.exports = {
    ok: function(logElement){
