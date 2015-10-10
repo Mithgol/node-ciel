@@ -2,7 +2,7 @@ This module (`ciel`) writes coloured logs in console window.
 
 Its name higlights similarities in the pronunciation of:
 
-* spelling of the letters `C.L.` meaning “coloured logs”,
+* spelling of the letters `C.L.` meaning “coloured logs”,
 
 * the French word “ciel”,
 
