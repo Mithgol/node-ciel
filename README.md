@@ -1,8 +1,12 @@
 This module (`ciel`) writes coloured logs in console window.
 
-Its name is a pun related to the pronunciation of the letters `C.L.` meaning “coloured logs”.
+Its name higlights similarities in the pronunciation of:
 
-This module is currently in an early phase of its development and thus does not have the desired level of feature completeness.
+* spelling of the letters `C.L.` meaning “coloured logs”,
+
+* the French word “ciel”,
+
+* the name of a certain character in “Tsukihime”, “Kagetsu Tohya”, “Melty Blood”, “Carnival Phantasm”.
 
 ## Installing Ciel
 
@@ -13,6 +17,26 @@ This module is currently in an early phase of its development and thus does
 * Latest githubbed version: `npm install https://github.com/Mithgol/node-ciel/tarball/master`
 
 You may visit https://github.com/Mithgol/node-ciel#readme occasionally to read the latest `README` because the package's version is not planned to grow after changes when they happen in `README` only. (And `npm publish --force` is [forbidden](http://blog.npmjs.org/post/77758351673/no-more-npm-publish-f) nowadays.)
+
+## Using Ciel
+
+When you `require()` the installed module, you get an object with the following methods:
+
+* `.ok(someString)`
+
+* `.fail(someString)`
+
+* `.skip(someString)`
+
+* `.dupe(someString)`
+
+* `.status(someString)`
+
+Each of them writes the corresponding message (coloured and in all caps) in the console window and then writes the given string in plain text.
+
+Example:
+
+![(screenshot)](https://ipfs.io/ipfs/QmY9QSyyfSr7ChXz8UmWkPAGdCu1sj85TS1F4yPqb5STUz)
 
 ## Testing Ciel
 
