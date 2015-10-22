@@ -9,6 +9,10 @@ module.exports = {
       ansi.brightWhite().bg.red().write(' FAIL ').reset().write(' ');
       console.log(logElement);
    },
+   warn: function(logElement){
+      ansi.red().bg.brightWhite().write(' WARN ').reset().write(' ');
+      console.log(logElement);
+   },
    status: function(logElement){
       ansi.brightYellow().bg.blue().write('STATUS').reset().write(' ');
       console.log(logElement);
