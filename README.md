@@ -26,6 +26,8 @@ When you `require()` the installed module, you get an object with the follow
 
 * `.fail(someString)`
 
+* `.warn(someString)`
+
 * `.skip(someString)`
 
 * `.dupe(someString)`
