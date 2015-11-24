@@ -8,6 +8,8 @@ Its name higlights similarities in the pronunciation of:
 
 * the name of a certain character in “Tsukihime”, “Kagetsu Tohya”, “Melty Blood”, “Carnival Phantasm”.
 
+This module is written in JavaScript and requires [Node.js](http://nodejs.org/) to run.
+
 ## Installing Ciel
 
 [![(npm package version)](https://nodei.co/npm/ciel.png?downloads=true)](https://npmjs.org/package/ciel) [![(a histogram of downloads)](https://nodei.co/npm-dl/ciel.png?months=3&height=2)](https://npmjs.org/package/ciel)
