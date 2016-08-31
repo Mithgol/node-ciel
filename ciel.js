@@ -17,6 +17,10 @@ module.exports = {
       ansi.brightYellow().bg.blue().write('STATUS').reset().write(' ');
       console.log(logElement);
    },
+   folder: function(logElement){
+      ansi.brightYellow().bg.magenta().write('FOLDER').reset().write(' ');
+      console.log(logElement);
+   },
    dupe: function(logElement){
       ansi.brightCyan().bg.magenta().write(' DUPE ').reset().write(' ');
       console.log(logElement);

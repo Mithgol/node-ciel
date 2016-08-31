@@ -36,11 +36,13 @@ When you `require()` the installed module, you get an object with the follow
 
 * `.status(someString)`
 
+* `.folder(someString)`
+
 Each of them writes the corresponding message (coloured and in all caps) in the console window and then writes the given string in plain text.
 
 Example:
 
-![(screenshot)](https://ipfs.io/ipfs/QmY9QSyyfSr7ChXz8UmWkPAGdCu1sj85TS1F4yPqb5STUz)
+![(screenshot)](https://ipfs.io/ipfs/QmXC3beM6mJqmiwhwgbJ6rZucmCqeEuoZ4Pw1iprnpveHz)
 
 ## Testing Ciel
 
